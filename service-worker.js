@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/spell-guesser/precache-manifest.dcf690e99ccaae6f1ff5c4e8c865b612.js"
+  "/spell-guesser/precache-manifest.0e33ae9b22088a6b9c90b85a2b6120f3.js"
 );
 
 self.addEventListener('message', (event) => {
