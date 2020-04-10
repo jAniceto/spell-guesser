@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/jAniceto/spell-guesser/static/css/main.bd8b69dc.chunk.css",
+    "main.js": "/jAniceto/spell-guesser/static/js/main.ecbe80da.chunk.js",
+    "main.js.map": "/jAniceto/spell-guesser/static/js/main.ecbe80da.chunk.js.map",
+    "runtime-main.js": "/jAniceto/spell-guesser/static/js/runtime-main.12780548.js",
+    "runtime-main.js.map": "/jAniceto/spell-guesser/static/js/runtime-main.12780548.js.map",
+    "static/js/2.76edb10a.chunk.js": "/jAniceto/spell-guesser/static/js/2.76edb10a.chunk.js",
+    "static/js/2.76edb10a.chunk.js.map": "/jAniceto/spell-guesser/static/js/2.76edb10a.chunk.js.map",
+    "index.html": "/jAniceto/spell-guesser/index.html",
+    "precache-manifest.b25643219908327019f368a32264bf9f.js": "/jAniceto/spell-guesser/precache-manifest.b25643219908327019f368a32264bf9f.js",
+    "service-worker.js": "/jAniceto/spell-guesser/service-worker.js",
+    "static/css/main.bd8b69dc.chunk.css.map": "/jAniceto/spell-guesser/static/css/main.bd8b69dc.chunk.css.map",
+    "static/js/2.76edb10a.chunk.js.LICENSE.txt": "/jAniceto/spell-guesser/static/js/2.76edb10a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.12780548.js",
+    "static/js/2.76edb10a.chunk.js",
+    "static/css/main.bd8b69dc.chunk.css",
+    "static/js/main.ecbe80da.chunk.js"
+  ]
+}
