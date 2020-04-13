@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/spell-guesser/static/css/main.cffe27bc.chunk.css",
-    "main.js": "/spell-guesser/static/js/main.8859d3a4.chunk.js",
-    "main.js.map": "/spell-guesser/static/js/main.8859d3a4.chunk.js.map",
+    "main.css": "/spell-guesser/static/css/main.236306b9.chunk.css",
+    "main.js": "/spell-guesser/static/js/main.ee2c15ca.chunk.js",
+    "main.js.map": "/spell-guesser/static/js/main.ee2c15ca.chunk.js.map",
     "runtime-main.js": "/spell-guesser/static/js/runtime-main.4afa99fa.js",
     "runtime-main.js.map": "/spell-guesser/static/js/runtime-main.4afa99fa.js.map",
     "static/js/2.d1742b97.chunk.js": "/spell-guesser/static/js/2.d1742b97.chunk.js",
     "static/js/2.d1742b97.chunk.js.map": "/spell-guesser/static/js/2.d1742b97.chunk.js.map",
     "index.html": "/spell-guesser/index.html",
-    "precache-manifest.407fe5e6b096d71285bf06e67197650b.js": "/spell-guesser/precache-manifest.407fe5e6b096d71285bf06e67197650b.js",
+    "precache-manifest.922ba42b85c0eff592bfa30f8afe5c02.js": "/spell-guesser/precache-manifest.922ba42b85c0eff592bfa30f8afe5c02.js",
     "service-worker.js": "/spell-guesser/service-worker.js",
-    "static/css/main.cffe27bc.chunk.css.map": "/spell-guesser/static/css/main.cffe27bc.chunk.css.map",
+    "static/css/main.236306b9.chunk.css.map": "/spell-guesser/static/css/main.236306b9.chunk.css.map",
     "static/js/2.d1742b97.chunk.js.LICENSE.txt": "/spell-guesser/static/js/2.d1742b97.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.4afa99fa.js",
     "static/js/2.d1742b97.chunk.js",
-    "static/css/main.cffe27bc.chunk.css",
-    "static/js/main.8859d3a4.chunk.js"
+    "static/css/main.236306b9.chunk.css",
+    "static/js/main.ee2c15ca.chunk.js"
   ]
 }
